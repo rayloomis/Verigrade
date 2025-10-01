@@ -1,4 +1,4 @@
-// lib/card_camera_screen.
+// lib/card_camera_screen...
 import 'dart:io';
 import 'dart:typed_data';
 import 'dart:math' as math;
