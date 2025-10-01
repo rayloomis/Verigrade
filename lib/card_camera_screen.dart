@@ -277,7 +277,7 @@ Future<File> preprocessAndAutocrop(File rawFile, {double aspect = 3 / 4}) async 
 }
 
 
-// new comment
+
 // ====== Heuristics reused from main.dart (identical logic) ======
 
 _RectInt _estimateCardBounds(imgLib.Image img) {
