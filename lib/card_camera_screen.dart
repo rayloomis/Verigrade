@@ -1,4 +1,5 @@
 // lib/card_camera_screen.dart
+// this is a test comment
 import 'dart:io';
 import 'dart:typed_data';
 import 'dart:math' as math;
